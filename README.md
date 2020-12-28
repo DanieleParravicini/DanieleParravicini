@@ -1,12 +1,13 @@
 ### Hi there 👋
-
+I'm freshly graduated with honours in Computer Science and Engineering at Politecnico
+di Milano. I have a solid background in programming and software development and
+my current interests spans across computing architectures implemented in FPGAs. 
+My [linkedin](https://www.linkedin.com/in/daniele-parravicini/)
 <!--
 **DanieleParravicini/DanieleParravicini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌱 I’m currently learning how to program FPGAs 
