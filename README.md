@@ -2,6 +2,7 @@
 I'm freshly graduated with honours in Computer Science and Engineering at Politecnico
 di Milano. I have a solid background in programming and software development and
 my current interests spans across computing architectures implemented in FPGAs. 
+
 My [linkedin](https://www.linkedin.com/in/daniele-parravicini/)
 <!--
 **DanieleParravicini/DanieleParravicini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
