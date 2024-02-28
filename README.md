@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm freshly graduated with honours in Computer Science and Engineering at Politecnico
+I graduated with honours in Computer Science and Engineering at Politecnico
 di Milano. I have a solid background in programming and software development and
-my current interests spans across computing architectures implemented in FPGAs. 
+my current interests spans across computing architectures either implemented in ASICs and FPGAs. 
 
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning how to program FPGAs 
 -->
 
 
-- 🌱 I’m currently learning how to program FPGAs 
 
 
 
