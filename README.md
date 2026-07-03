@@ -1,6 +1,6 @@
 ### Hi there 👋
 I graduated with honours in Computer Science and Engineering at Politecnico
-di Milano. I have a solid background in programming and software development and
+di Milano. I have a solid background in software development and
 my current interests spans across computing architectures either implemented in ASICs and FPGAs. 
 
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=2bbc8a)
