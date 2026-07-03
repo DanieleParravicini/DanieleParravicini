@@ -18,9 +18,9 @@ my current interests spans across computing architectures either implemented in 
 
 ![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
 
-
-<a href="https://www.linkedin.com/in/daniele-parravicini/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <!--
+<a href="https://www.linkedin.com/in/daniele-parravicini/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
 **DanieleParravicini/DanieleParravicini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
